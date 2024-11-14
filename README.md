@@ -10,4 +10,4 @@ Welcome to my collection of code katas made by me. They are divided into directo
 All code kata is made in python <= 3.10.6
 
 ## My code kata list
-*[codesignal.com](https://codesignal.com) - [list](https://)
+* [codesignal.com](https://codesignal.com) - [list katas](https://github.com/maciejsobieniak/code-kata/tree/main/codesignal)
